@@ -1,1 +1,1 @@
-{"pack":{"pack_format":64,"description":[{"text":"By Luracasmus","color":"dark_gray"}],"supported_formats":[42,64]}}
+{"pack":{"min_format":[42,0],"max_format":[69,0],"pack_format":69,"supported_formats":[42,69],"description":[{"text":"By Luracasmus","color":"dark_gray"}]}}
