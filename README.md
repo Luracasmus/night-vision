@@ -1,7 +1,9 @@
 # Night Vision
 
-A tiny night vision resource pack for [Polytone](https://github.com/MehVahdJukaar/polytone) or [OptiFine](https://optifine.net/home), implemented using custom lightmaps
+A tiny night vision resource pack for [Polytone](https://modrinth.com/mod/polytone) or [OptiFine](https://optifine.net/home), implemented using custom lightmaps.
 
-![Preview](https://cdn.modrinth.com/data/sA6eDnQN/images/d9fb3f33774f105e179bf99aaea6fa2aba4851e9.png)
+Custom lightmap support is currently not available in Polytone for the most recent Minecraft versions, so you may only be able to use the resource pack with OptiFine.
 
 When using [OptiFine](https://optifine.net/home), requires: Custom Colors: ON, Smooth Lighting: OFF, Dynamic Lights: OFF
+
+> **Remember to check server rules before using resource packs like this in multiplayer.**
